@@ -1,4 +1,6 @@
 .env
+scraping_session.session
+photos/
 data/
 venv/
 __pycache__/
